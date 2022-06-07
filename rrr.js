@@ -1,2 +1,2 @@
 import { App } from "octokit";
-console.log('as  ')
+console.log('as   ')
