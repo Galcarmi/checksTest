@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Galcarmi/workflowsTest/issues"
   },
-  "homepage": "https://github.com/Galcarmi/workflowsTest#readme"
+  "homepage": "https://github.com/Galcarmi/workflowsTest#readme",
+  "dependencies": {
+    "octokit": "^1.7.1"
+  }
 }
