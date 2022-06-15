@@ -1,4 +1,4 @@
-console.log('tes    ts are running...')
+console.log('t es    ts are running...')
 
 if(process.env.git_hash && process.env.git_branch){
     console.log('git_hash', JSON.stringify(process.env.git_hash))
