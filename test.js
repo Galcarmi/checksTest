@@ -4,5 +4,5 @@ if(process.env.git_hash && process.env.git_branch){
     console.log('git_hash', JSON.stringify(process.env.git_hash))
     console.log('git_branch', JSON.stringify(process.env.git_branch))
 }else{
-    throw new Error('git  has  & & br  a nch not found')
+    throw new Error('git  h as  & & br  a nch not found')
 } 
