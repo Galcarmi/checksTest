@@ -6,3 +6,11 @@ if(process.env.git_hash && process.env.git_branch){
 }else{
     throw new Error('git hash && branch not found')
 }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
